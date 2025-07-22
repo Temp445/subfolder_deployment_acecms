@@ -5,7 +5,6 @@ import { SendHorizontal, User, Mail, MapPin, Building2 } from "lucide-react";
 import emailjs from "@emailjs/browser";
 import Image from "next/image";
 import { sendWhatsappMessage } from "@/services/whatsapp/whatsappService";
-
 import PhoneInput, { isValidPhoneNumber } from "react-phone-number-input";
 import 'react-phone-number-input/style.css';
 import CB from "@/assets/CB.png";

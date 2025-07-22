@@ -5,16 +5,13 @@ import logo from "../assets/AceLogo.png";
 import { setCookie } from 'cookies-next';
 import { useRouter } from 'next/navigation';
 import Link from 'next/link';
-import { usePathname } from 'next/navigation';
 import { useLocale } from 'next-intl';
-// import { Link } from '@/i18n/navigation';
 import { ChevronDown, Globe } from 'lucide-react';
 import { useTranslations } from "next-intl";
 
 const Navbar1: FC = () => {
   const t = useTranslations('Menu');
    const router = useRouter();
-  const pathname = usePathname();
   const currentLocale = useLocale();
   const [isOpen, setIsOpen] = useState(false);
     const dropdownRef = useRef<HTMLDivElement>(null);
