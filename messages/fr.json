@@ -1,0 +1,251 @@
+
+{
+  "Menu": {
+  "Project": "Project",
+  "ProjectTooltip": "Simplifiez les projets. Donnez du pouvoir aux équipes.",
+  "CRM": "CRM",
+  "CRMTooltip": "Connaissez vos clients. Développez votre entreprise.",
+  "PPAP": "PPAP",
+  "PPAPTooltip": "Garantir la qualité, chaque pièce, à chaque fois.",
+  "AllProducts": "Tous les produits"
+},
+
+  "Navbar": {
+  "Subtitle": "Système de gestion de l'étalonnage",
+  "Links": {
+    "Home": "Accueil",
+    "Features": "Fonctionnalités",
+    "Pricing": "Tarifs",
+    "BookDemo": "Réserver une démo",
+    "Clients": "Clients",
+    "Contact": "Contactez-nous",
+    "SignIn": "Se connecter",
+    "AllProducts": "Tous les produits"
+
+  }
+},
+
+  "Hero": {
+    "mobileTitle": "Optimisez la gestion de l'étalonnage, assurez la conformité réglementaire et améliorez l'efficacité avec ACE CMS.",
+    "desktopTitle": {
+      "before": "Optimisez la gestion de l'étalonnage et assurez la conformité avec",
+      "highlight": "ACE CMS"
+    },
+    "description": {
+      "part1": "Efficace, conforme et",
+      "highlight": "gestion de l'étalonnage basée sur le cloud",
+      "part2": "conçue pour l'excellence industrielle."
+    },
+    "stats": {
+      "cloudValue": "100 %",
+      "cloudLabel": "Basé sur le cloud",
+      "usersValue": "200 +",
+      "usersLabel": "Utilisateurs actifs",
+      "feedbackValue": "95 %",
+      "feedbackLabel": "Retours positifs"
+    },
+    "contactBtn": "Contactez-nous",
+    "watchDemo": "Regarder la démo",
+    "BookADemo": "Réservez une démo gratuite dès maintenant !"
+
+  },
+
+  
+  "WhyChoose": {
+    "badge": "Pourquoi nous choisir ?",
+    "heading": {
+      "part1": "ACE CMS – Une",
+      "part2": "Gestion de l'étalonnage intelligente",
+      "part3": "simplifiée"
+    },
+    "description": "Chez ACE CMS, nous ne vous aidons pas seulement à gérer l'étalonnage — nous vous aidons à l'exceller. Voici pourquoi les entreprises leaders nous font confiance :",
+    "point1": "Prêt pour l’audit, sans stress.",
+    "point2": "Étalonnez plus intelligemment, pas plus durement.",
+    "point3": "Simplifiez votre processus MSA.",
+    "point4": "Scannez. Sachez. Terminé.",
+    "point5": "Votre étalonnage dans votre poche.",
+    "point6": "100 % cloud, aucune perte de données",
+    "learnMore": "En savoir plus"
+  },
+
+  "Scenario": {
+  "Title": "Système de Gestion de l'Étalonnage ACE",
+  "Description": "Imaginez votre prochain audit — plus de paperasse, plus de course aux certificats. Avec <cms>{cms}</cms>, tout est prêt en un clic, et vos auditeurs sont impressionnés. Votre équipe reste calme, concentrée et confiante que tout est en ordre.",
+  "bookDemo": "Demander une démo",
+  "TrustedBrands": "Marques qui nous font confiance"
+
+},
+
+"Banner": {
+  "Heading": "Accédez à tout moment via",
+  "device": "appareil Android",
+  "Description": "Consultez facilement vos informations d'étalonnage sur votre téléphone, à tout moment et où que vous soyez. Accédez aux données en temps réel, suivez l'historique et soyez prêt pour les audits, le tout sans avoir besoin d'un ordinateur.",
+  "Tap": "Appuyez pour entrer"
+},
+
+"Features": {
+  "Heading": "Ce que nous offrons",
+  "Subheading": "ACE CMS est un système intelligent de gestion de l'étalonnage qui simplifie chaque étape, de l'importation des données à la préparation des audits, afin de rester conforme, gagner du temps et garder chaque instrument à jour, où que vous soyez.",
+  "List": [
+    {
+      "title": "Toujours prêt pour les audits",
+      "description": "Fini les recherches de dernière minute pendant les audits—tout est stocké correctement et affiché instantanément. Les auditeurs seront impressionnés."
+    },
+    {
+      "title": "Étalonnage interne intelligent, y compris l'historique et les alertes",
+      "description": "Étalonnage interne intelligent avec des résultats préremplis—plus besoin de saisir plusieurs fois. Consultez l'historique et recevez des alertes instantanées."
+    },
+    {
+      "title": "QR / Code-barres pour chaque instrument",
+      "description": "Générez, imprimez et collez des codes—scannez pour accéder immédiatement aux détails de l'instrument. Plus besoin de chercher."
+    },
+    {
+      "title": "Simplifiez votre processus MSA",
+      "description": "Des résultats calculés automatiquement offrent des résultats précis en quelques minutes."
+    },
+    {
+      "title": "Application Android pour un accès nomade",
+      "description": "Consultez les infos de calibration à tout moment, n'importe où—directement depuis votre mobile."
+    },
+    {
+      "title": "Tableau de bord de statut de calibration en direct",
+      "description": "Obtenez une vue d'ensemble de l'état de calibration de toute votre entreprise via un tableau de bord clair."
+    },
+    {
+      "title": "Migration facile de données Excel",
+      "description": "Nous gérons l'importation Excel pour vous—zéro stress, zéro perte de données."
+    },
+    {
+      "title": "Tous les rapports dont vous aurez besoin",
+      "description": "Rapports d'étalonnage, certificats, listes d'échéance—ACE CMS les propose tous."
+    },
+    {
+      "title": "100 % basé sur le cloud, aucune perte de données",
+      "description": "Vos données sont stockées en toute sécurité dans le cloud—toujours accessibles, toujours sécurisées."
+    }
+  ]
+},
+
+"Banner1": {
+  "heading": "Vous voulez une méthode plus intelligente pour gérer les étalonnages ? Laissez-nous vous montrer !",
+  "button": " Réservez une démo gratuite !"
+},
+
+"Pricing": {
+
+  "Title": "Options d'abonnement",
+  "Subtitle": "Boostez votre croissance avec le bon plan",
+  "InstrumentRange": "Plage d’instruments",
+  "PerYearly": "/Annuelle",
+  "FeaturesList": "Liste des fonctionnalités",
+  "KeyFeatures": "Fonctionnalités clés :",
+  "ContactUs": "Contactez-nous",
+  "EssentialTagline": "Parfait pour les débutants en étalonnage",
+  "StandardTagline": "Pour les équipes en croissance automatisant leurs processus",
+  "ProTagline": "Pour les grandes équipes ayant un contrôle total",
+  "SmartChoice": "Choix malin",
+  "FullAccess": "Accès complet",
+    "Plans": {
+    "Essential": "Essentiel",
+    "Standard": "Standard",
+    "Pro": "Pro"
+  },
+
+  "Features": {
+    "UserLimit": "Nombre d’utilisateurs",
+    "ExternalCertUpload": "Téléchargement de certificat externe",
+    "InternalExternalCertUpload": "Téléchargement de certificat interne et externe",
+    "CalibrationHistoryReports": "Historique & rapports d’étalonnage",
+    "EmailAlerts": "Alertes par email pour les dates d’étalonnage",
+    "TrackInstrumentsLocations": "Ajout & suivi des instruments & emplacements",
+    "QRBarcode": "Générateur de QR/Code-barres & scan pour consultation",
+    "InternalCertModule": "Module de certificat d’étalonnage interne",
+    "WearPatternAnalysis": "Analyse des motifs d’usure",
+    "MSACompliance": "Support conformité MSA 4ᵉ édition",
+    "AndroidAppAccess": "Accès via application Android",
+    "CustomLogos": "Logos personnalisés sur rapports",
+    "CustomUserRoles": "Rôles & permissions personnalisés",
+    "APIExport": "API & exportation avancée de données",
+    "DocumentNumbering": "Attribution de numéro de document à chaque rapport"
+  }
+},
+
+
+  "Testimonial": {
+    "Title": "Retours authentiques de nos clients",
+    "name1": "Praveena",
+  "name2": "Arun",
+  "name3": "Vijaya Prakash",
+    "Quote1": "Notre entreprise apprécie la précision et la fiabilité de ce système d’étalonnage, essentielles pour maintenir nos normes de qualité.",
+    "Quote2": "La mise en œuvre de ce système a considérablement réduit le temps et les erreurs liés à nos procédures d’étalonnage, contribuant ainsi à des opérations plus fluides.",
+    "Quote3": "Depuis la mise en œuvre de cette solution, nos flux de travail d’étalonnage sont devenus nettement plus efficaces. La fiabilité et la facilité d’utilisation du système ont dépassé nos attentes."
+  },
+
+   "Contact": {
+  "Title": "Contactez-nous et",
+  "highlight": "planifiez votre démo dès maintenant !",
+  "code": "FR",
+  "Form": {
+    "Name": "Nom",
+    "Company": "Nom de l'entreprise",
+    "Email": "Email professionnel",
+    "Phone": "Numéro de mobile",
+    "Location": "Emplacement",
+    "Product": "Produit d'intérêt",
+    "Queries": "Questions",
+    "Submit": "Envoyer",
+    "Submitting": "Envoi en cours...",
+    "EmailError": "Veuillez saisir une adresse e-mail valide.",
+    "PhoneError": "Veuillez saisir un numéro de téléphone valide."
+  },
+  "ContactInfo": {
+    "Title": "Coordonnées",
+    "EmailUs": "Envoyez-nous un email",
+    "CallUs": "Appelez-nous",
+    "Hours": "Lun-Sam de 10h à 18h30",
+    "VisitUs": "Visitez-nous",
+    "Address": "#306, 2e étage, NSIC - Parc technologique des logiciels, B 24, Zone industrielle de Guindy, Ekkatuthangal, Chennai - 600032"
+  },
+  "Messages": {
+    "Success": "Votre message a été envoyé avec succès !",
+    "Failure": "Un problème est survenu lors de l’envoi de votre message. Veuillez réessayer ultérieurement.",
+    "ValidationUnavailable": "Service de validation de l’email indisponible."
+  }
+},
+"Notification": {
+  "Demo": "Réserver une démo",
+  "RequestCallback": "Demander un rappel",
+  "para": "Veuillez remplir le formulaire et un expert produit qualifié vous contactera sous peu afin de comprendre vos besoins et de vous recommander la solution la plus adaptée à votre entreprise.",
+  "write": "Vous pouvez également nous écrire à :"
+},
+"CallbackCard": {
+  "Heading": "Besoin d’aide pour trouver ce qu’il vous faut ?",
+  "highlight": "bon produit",
+  "Subtitle": "Des questions ou un besoin produit ? Nous sommes là pour vous aider.",
+  "button": "DEMANDER UN RAPPEL",
+  "contact": "Contactez-nous",
+  "phone": "Téléphone",
+  "email": "E-mail",
+  "Title": "Produits les plus populaires",
+  "feature1": "Système de gestion de l'étalonnage",
+  "feature2": "Gestion de la relation client",
+  "tagline1": "Améliorez la productivité avec une gestion fiable de l'étalonnage.",
+  "tagline2": "Connaissez vos clients. Créez la confiance. Développez votre activité.",
+  "LearnMore": "En savoir plus"
+},
+
+"Footer": {
+  "Description": "ACE CMS apporte efficacité, traçabilité et conformité à la gestion de l'étalonnage. En exploitant l'automatisation, les données en temps réel et la flexibilité du cloud, il transforme un processus traditionnellement manuel et sujet aux erreurs en un système rationalisé, prêt pour l'audit — économisant du temps, réduisant les risques et garantissant la qualité.",
+  "QuickLinks": {
+    "Title": "Liens rapides",
+    "Features": "Fonctionnalités",
+    "Clients": "Clients",
+    "Pricing": "Tarification",
+    "Contact": "Contact"
+  },
+  "FollowUs": {
+    "Title": "Suivez-nous"
+  }
+}
+
+}

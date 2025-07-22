@@ -1,0 +1,251 @@
+{
+
+  "Menu": {
+  "Project": "Project",
+  "ProjectTooltip": "プロジェクトを簡素化し、チームを強化します。",
+  "CRM": "CRM",
+  "CRMTooltip": "顧客を理解し、ビジネスを成長させましょう。",
+  "PPAP": "PPAP",
+  "PPAPTooltip": "すべての部品、すべての時に品質を保証します。",
+  "AllProducts": "すべての製品"
+},
+ 
+  "Navbar": {
+  "Subtitle": "校正管理システム",
+  "Links": {
+    "Home": "ホーム",
+    "Features": "機能",
+    "Pricing": "料金",
+    "BookDemo": "デモを予約",
+    "Clients": "クライアント",
+    "Contact": "お問い合わせ",
+    "SignIn": "サインイン",
+    "AllProducts": "すべての製品"
+
+  }
+},
+
+
+  "Hero": {
+    "mobileTitle": "校正管理を効率化し、規制遵守を確保し、ACE CMSで効率を向上させましょう。",
+    "desktopTitle": {
+      "before": "ACE CMSで校正管理を合理化し、コンプライアンスを確保",
+      "highlight": ""
+    },
+    "description": {
+      "part1": "効率的、コンプライアンス対応、",
+      "highlight": "クラウドベースの校正管理",
+      "part2": "製造業の卓越性に最適。"
+    },
+    "stats": {
+      "cloudValue": "100 %",
+      "cloudLabel": "クラウドベース",
+      "usersValue": "200 +",
+      "usersLabel": "アクティブユーザー",
+      "feedbackValue": "95 %",
+      "feedbackLabel": "肯定的なフィードバック"
+    },
+    "contactBtn": "お問い合わせ",
+    "watchDemo": "デモを見る",
+    "BookADemo": "今すぐ無料デモを予約！"
+
+  },
+
+    "WhyChoose": {
+    "badge": "なぜ私たちを選ぶのか？",
+    "heading": {
+      "part1": "ACE CMS – スマートな",
+      "part2": "キャリブレーション管理",
+      "part3": "をシンプルに"
+    },
+    "description": "ACE CMS は、単なる管理ではなく、キャリブレーションの達人になる手助けをします。多くの企業が私たちを信頼する理由はこちら：",
+    "point1": "監査対応もストレスフリー。",
+    "point2": "よりスマートな校正を。",
+    "point3": "MSAプロセスの効率化。",
+    "point4": "スキャンして把握、それだけ。",
+    "point5": "校正をポケットに。",
+    "point6": "100％クラウドでデータ損失なし",
+    "learnMore": "もっと詳しく"
+  },
+
+  "Scenario": {
+  "Title": "ACEキャリブレーション管理システム",
+  "Description": "次の監査を想像してみてください。紙の書類は不要、証明書を探し回る必要もありません。<cms>{cms}</cms> があれば、すべてがワンクリックで整い、監査人を感心させます。チームは冷静に、集中し、自信を持ってすべてを管理できます。",
+  "bookDemo": "デモを予約する",
+  "TrustedBrands": "私たちを信頼するブランド"
+
+},
+
+
+"Banner": {
+  "Heading": "いつでもアクセス可能",
+  "device": "Android デバイス",
+  "Description": "キャリブレーション情報をスマートフォンでいつでもどこでも簡単に確認できます。リアルタイムデータにアクセスし、履歴を追跡し、監査の準備も万全です。デスクトップは不要です。",
+  "Tap": "タップして入る"
+},
+
+"Features": {
+  "Heading": "私たちの提供内容",
+  "Subheading": "ACE CMSは、データインポートから監査準備までのすべてのステップを合理化するスマートなキャリブレーション管理システムです。コンプライアンスを維持し、時間を節約し、すべての機器を最新の状態に保てます。",
+  "List": [
+    {
+      "title": "監査にいつでも対応可能",
+      "description": "監査時のバタバタなし—すべてが正しく保存され即座に表示。監査人も納得します。"
+    },
+    {
+      "title": "校正履歴とアラート付きのスマートな内部校正",
+      "description": "自動入力された結果で繰り返し入力不要。履歴を表示し、アラートを即座に受け取れます。"
+    },
+    {
+      "title": "すべての機器にQR / バーコード",
+      "description": "コードを生成、印刷、貼り付け—スキャンすればすぐに詳細を確認可能。"
+    },
+    {
+      "title": "MSAプロセスを簡素化",
+      "description": "自動計算された試験結果により、数分で正確な結果を得られます。"
+    },
+    {
+      "title": "Androidアプリでいつでもアクセス",
+      "description": "モバイルからいつでもどこでも校正情報を確認できます。"
+    },
+    {
+      "title": "リアルタイム校正ステータスダッシュボード",
+      "description": "会社全体の校正状況を一目で確認できるシンプルなダッシュボード。"
+    },
+    {
+      "title": "シームレスなExcelデータ移行",
+      "description": "Excelインポートはお任せください—ストレスなし、データ損失なし。"
+    },
+    {
+      "title": "必要なすべてのレポート",
+      "description": "校正レポート、証明書、期限リスト—すべてACE CMSに揃っています。"
+    },
+    {
+      "title": "100%クラウドベース、データ損失なし",
+      "description": "データはクラウドに安全に保存され、常にアクセス可能です。"
+    }
+  ]
+},
+
+"Banner1": {
+  "heading": "校正をもっとスマートに管理しませんか？私たちがご案内します！",
+  "button": " 無料デモを予約！"
+},
+
+"Pricing": {
+  "Title": "サブスクリプションオプション",
+  "Subtitle": "成長を後押しする最適なプランを",
+  "InstrumentRange": "インストゥルメント数",
+  "PerYearly": "/年額",
+  "FeaturesList": "機能一覧",
+  "KeyFeatures": "主な機能：",
+  "ContactUs": "お問い合わせ",
+  "EssentialTagline": "校正初心者に最適",
+  "StandardTagline": "自動化が必要な成長チームに",
+  "ProTagline": "完全な管理が必要な大規模チームに",
+  "SmartChoice": "スマートチョイス",
+  "FullAccess": "フルアクセス",
+  "Plans": {
+    "Essential": "エッセンシャル",
+    "Standard": "スタンダード",
+    "Pro": "プロ"
+  },
+  "Features": {
+    "UserLimit": "ユーザー数制限",
+    "ExternalCertUpload": "外部証明書アップロード",
+    "InternalExternalCertUpload": "内部／外部証明書アップロード",
+    "CalibrationHistoryReports": "校正履歴とレポート",
+    "EmailAlerts": "校正期日のメール通知",
+    "TrackInstrumentsLocations": "機器およびロケーションの追加／追跡",
+    "QRBarcode": "QR／バーコード生成＋スキャン閲覧",
+    "InternalCertModule": "内部校正証明書モジュール",
+    "WearPatternAnalysis": "摩耗パターン解析",
+    "MSACompliance": "MSA第4版対応サポート",
+    "AndroidAppAccess": "Androidアプリアクセス",
+    "CustomLogos": "レポートにカスタムロゴ",
+    "CustomUserRoles": "カスタムユーザーロールと権限",
+    "APIExport": "API＆高度なデータエクスポート",
+    "DocumentNumbering": "レポートごとに固有ドキュメント番号"
+  }
+},
+
+
+  "Testimonial": {
+    "Title": "お客様からの本物の声",
+  "name1": "プラヴィーナ",
+  "name2": "アルン",
+  "name3": "ヴィジャヤ・プラカシュ",
+    "Quote1": "当社では、このキャリブレーションシステムの精度と信頼性を高く評価しており、品質基準を維持するために不可欠です。",
+    "Quote2": "このシステムを導入したことで、校正手順にかかる時間とミスが大幅に減少し、日常業務がよりスムーズになりました。",
+    "Quote3": "このソリューションを導入して以来、校正ワークフローが大幅に効率化されました。システムの信頼性と使いやすさは、私たちの期待を上回りました。"
+  },
+
+ "Contact": {
+  "Title": "今すぐご連絡いただき、",
+  "highlight": "デモを予約しましょう！",
+  "code": "JP",
+  "Form": {
+    "Name": "名前",
+    "Company": "会社名",
+    "Email": "ビジネス用メール",
+    "Phone": "携帯番号",
+    "Location": "所在地",
+    "Product": "興味のある製品",
+    "Queries": "お問い合わせ内容",
+    "Submit": "送信",
+    "Submitting": "送信中…",
+    "EmailError": "有効なメールアドレスを入力してください。",
+    "PhoneError": "有効な電話番号を入力してください。"
+  },
+  "ContactInfo": {
+    "Title": "連絡先情報",
+    "EmailUs": "メールでお問い合わせ",
+    "CallUs": "お電話ください",
+    "Hours": "月〜土 10:00〜18:30",
+    "VisitUs": "ご来社はこちら",
+    "Address": "#306、2階、NSICソフトウェア技術ビジネスパーク、B 24、グインディ工業地帯、エッカトゥタンガル、チェンナイ - 600032"
+  },
+  "Messages": {
+    "Success": "メッセージが正常に送信されました！",
+    "Failure": "メッセージの送信中にエラーが発生しました。後ほどもう一度お試しください。",
+    "ValidationUnavailable": "メール検証サービスが利用できません。"
+  }
+},
+"Notification": {
+  "Demo": "デモを予約する",
+  "RequestCallback": "コールバックを依頼する",
+  "para": "フォームにご記入いただくと、担当の製品スペシャリストがすぐにご連絡し、お客様のニーズを把握したうえで最適なソリューションをご提案いたします。",
+  "write": "こちらのアドレスにもご連絡いただけます："
+},
+"CallbackCard": {
+  "Heading": "必要なものを見つけるお手伝いをしましょうか？",
+  "highlight": "最適な製品",
+  "Subtitle": "ご質問や製品のご要望がありますか？お気軽にご相談ください。",
+  "button": "コールバックをリクエストする",
+  "contact": "お問い合わせ",
+  "phone": "電話",
+  "email": "メール",
+  "Title": "人気製品",
+  "feature1": "校正管理システム",
+  "feature2": "顧客関係管理（CRM）",
+  "tagline1": "信頼できる校正管理で生産性を向上させましょう。",
+  "tagline2": "顧客を知り、信頼を築き、ビジネスを成長させましょう。",
+  "LearnMore": "詳しく見る"
+},
+
+"Footer": {
+  "Description": "ACE CMS は、校正管理において効率性、トレーサビリティ、コンプライアンスを実現します。自動化、リアルタイムデータ、クラウドの柔軟性を活用することで、従来の手作業でミスの多いプロセスを合理化された監査対応システムへと変革し、時間を節約し、リスクを軽減し、品質を確保します。",
+  "QuickLinks": {
+    "Title": "クイックリンク",
+    "Features": "機能",
+    "Clients": "クライアント",
+    "Pricing": "料金",
+    "Contact": "お問い合わせ"
+  },
+  "FollowUs": {
+    "Title": "フォローする"
+  }
+  
+}
+
+}

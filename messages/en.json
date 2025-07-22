@@ -1,0 +1,245 @@
+{
+
+    "Menu": {
+    "Project": "Project",
+    "ProjectTooltip": "Simplify Projects. Empower Teams.",
+    "CRM": "CRM",
+    "CRMTooltip": "Know Your Customer. Grow Your Business.",
+    "PPAP": "PPAP",
+    "PPAPTooltip": "Ensuring Quality, Every Part, Every Time.",
+    "AllProducts": "All Products"
+  },
+
+"Navbar": {
+  "Subtitle": "Calibration Management System",
+  "Links": {
+    "Home": "Home",
+    "Features": "Features",
+    "Pricing": "Pricing",
+    "BookDemo": "Book A Demo",
+    "Clients": "Clients",
+    "Contact": "Contact Us",
+    "SignIn": "Sign In",
+    "AllProducts": "All Products"
+  }},
+
+
+  "Hero": {
+    "mobileTitle": "Streamline Calibration Management, Ensure Regulatory Compliance, and Boost Efficiency with ACE CMS.",
+    "desktopTitle": {
+      "before": "Streamline Calibration Management and Ensure Compliance with",
+      "highlight": "ACE CMS"
+    },
+    "description": {
+      "part1": "Efficient, compliant, and",
+      "highlight": "cloud-based calibration management",
+      "part2": "tailored for manufacturing excellence."
+    },
+    "stats": {
+      "cloudValue": "100 %",
+      "cloudLabel": "Cloud-Based",
+      "usersValue": "200 +",
+      "usersLabel": "Live Users",
+      "feedbackValue": "95 %",
+      "feedbackLabel": "Positive feedback"
+    },
+    "contactBtn": "Contact Us",
+     "watchDemo": "Watch Demo",
+     "BookADemo": "Book A Free Demo Now!"
+  },
+
+  
+  "WhyChoose": {
+    "badge": "Why Choose Us?",
+    "heading": {
+      "part1": "ACE CMS – Smart",
+      "part2": "Calibration Management",
+      "part3": "Made Simple"
+    },
+    "description": "At ACE CMS, we don't just help you manage calibration—we help you master it. Here's why leading companies trust us:",
+    "point1": "Audit-ready, zero stress.",
+    "point2": "Calibrate smarter, not harder.",
+    "point3": "Streamline your MSA process.",
+    "point4": "Scan it. Know it. Done.",
+    "point5": "Your calibration, in your pocket.",
+    "point6": "100% Cloud-Based, No Data Loss",
+    "learnMore": "Learn More"
+  },
+
+
+  "Scenario": {
+  "Title": "ACE Calibration Management System",
+  "Description": "Imagine your next audit — no more paper trails, no more scrambling for certificates. With <cms>{cms}</cms>, everything you need is ready at a click, and your auditors are impressed. Your team stays calm, focused, and confident that everything is in order.",
+  "bookDemo": "Book A Demo",
+  "TrustedBrands": "Brands That Trust Us"
+  },
+
+
+  "Banner": {
+  "Heading": "Access Anytime via",
+  "device": "Android Device",
+  "Description": "Easily check your calibration info on your phone anytime, anywhere. Access real-time data, track history, and stay audit-ready on the go, all without needing a desktop.",
+  "Tap": "Tap to enter"
+},
+
+"Features": {
+  "Heading": "What We Offer",
+  "Subheading": "ACE CMS is a smart calibration management system that streamlines every step—from data import to audit prep—so you can stay compliant, save time, and keep every instrument tracked and up to date, wherever you are.",
+  "List": [
+    {
+      "title": "Audit-Ready, Always",
+      "description": "No more scrambling during audits—everything's stored right and shown instantly. Auditors will be impressed."
+    },
+    {
+      "title": "Smart Internal Calibration, including Calibration History and Alerts",
+      "description": "Smart internal calibration with auto-filled results—no more repeat entries. View calibration history and get alerts instantly."
+    },
+    {
+      "title": "QR / Bar Code Stickers for Every Instrument",
+      "description": "Generate, print, and stick codes—just scan to instantly view all instrument details. No more searching."
+    },
+    {
+      "title": "Streamline your MSA process",
+      "description": "Auto-calculated trial results deliver accurate outcomes in just minutes."
+    },
+    {
+      "title": "Android App for On-the-Go Access",
+      "description": "Check calibration info anytime, anywhere—right from your mobile."
+    },
+    {
+      "title": "Live Calibration Status Dashboard",
+      "description": "Get a bird’s-eye view of your company’s entire calibration status in one clean dashboard."
+    },
+    {
+      "title": "Seamless Excel Data Migration",
+      "description": "We handle the Excel import for you—zero stress, zero data loss."
+    },
+    {
+      "title": "All the Reports You’ll Ever Need",
+      "description": "Calibration reports, certificates, due lists—you name it, ACE CMS has it."
+    },
+    {
+      "title": "100% Cloud-Based, No Data Loss",
+      "description": "Your data is safely stored in the cloud—always accessible, always secure."
+    }
+  ]
+},
+
+"Banner1":{
+  "heading": "Want a Smarter Way to Manage Calibrations? Let’s Show You!",
+  "button": " Book a Free Demo !"
+},
+
+
+"Pricing": {
+  "Title": "Subscription Options",
+  "Subtitle": "Power your growth with the right plan",
+  "InstrumentRange": "Instrument Range",
+  "PerYearly": "/Yearly",
+  "FeaturesList": "Features List",
+  "KeyFeatures": "Key features:",
+  "ContactUs": "Contact Us",
+  "EssentialTagline": "Best for calibration beginners",
+  "StandardTagline": "For growing teams needing automation",
+  "ProTagline": "For large teams needing full control",
+  "SmartChoice": "Smart Choice",
+  "FullAccess": "Full Access",
+   "Plans": {
+    "Essential": "Essential",
+    "Standard": "Standard",
+    "Pro": "Pro"
+  },
+  
+  "Features": {
+    "UserLimit": "User Limit",
+    "ExternalCertUpload": "External Calibration Certificate Upload",
+    "InternalExternalCertUpload": "Internal & External Calibration Certificate Upload",
+    "CalibrationHistoryReports": "Calibration History & Reports",
+    "EmailAlerts": "Email Alerts for Calibration Due Dates",
+    "TrackInstrumentsLocations": "Add & Track Instruments & Locations",
+    "QRBarcode": "QR/Barcode Generator & Scan-to-View",
+    "InternalCertModule": "Internal Calibration Certificate Module",
+    "WearPatternAnalysis": "Wear Pattern Analysis",
+    "MSACompliance": "MSA 4th Edition Compliance Support",
+    "AndroidAppAccess": "Android App Access",
+    "CustomLogos": "Custom Logos on Reports",
+    "CustomUserRoles": "Custom User Roles & Permissions",
+    "APIExport": "API & Advanced Data Export",
+    "DocumentNumbering": "Assign a specific document number to each report"
+  }
+},
+
+  "Testimonial": {
+    "Title": "Authentic Customer Feedback",
+  "name1": "Praveena",
+  "name2": "Arun",
+  "name3": "Vijaya Prakash",
+    "Quote1": "Our company values the precision and reliability of this calibration system, which is essential to maintaining our quality standards.",
+    "Quote2": "Implementing this system has substantially reduced the time and errors associated with our calibration procedures, contributing to smoother daily operations.",
+    "Quote3": "Since implementing this solution, our calibration workflows have become markedly more efficient. The system’s reliability and ease of use have exceeded our expectations."
+  },
+
+
+ "Contact": {
+  "Title": "Get in touch and ",
+  "highlight" : "Schedule your demo now!",
+  "code": "IN",
+  "Form": {
+    "Name": "Name",
+    "Company": "Company Name",
+    "Email": "Business Email",
+    "Phone": "Mobile Number",
+    "Location": "Location",
+    "Product": "Product Interested",
+    "Queries": "Queries",
+    "Submit": "Send",
+    "Submitting": "Sending...",
+    "EmailError": "Please enter a valid email address.",
+    "PhoneError": "Please enter a valid phone number."
+  },
+
+  "ContactInfo": {
+    "Title": "Contact Information",
+    "EmailUs": "Email Us",
+    "CallUs": "Call Us",
+    "Hours": "Mon-Sat from 10am to 6:30pm",
+    "VisitUs": "Visit Us",
+    "Address": "#306, 2nd Floor NSIC - Software Technology Business Park, B 24, Guindy Industrial Estate, Ekkatuthangal, Chennai - 600032"
+  },
+  "Messages": {
+    "Success": "Your message has been sent successfully!",
+    "Failure": "There was an issue sending your message. Please try again later.",
+    "ValidationUnavailable": "Email validation service unavailable."
+  }
+},
+
+"Notification":{
+    "Demo": "Book a Demo",
+    "RequestCallback": "Request a Callback",
+   "para":"Please fill out the form, and a qualified product expert will contact you shortly to understand your requirements and recommend the most suitable solution for your business.",
+   "write":"You can also write to us at:"
+},
+
+"CallbackCard":{
+  "Heading": "Need help finding what you need?",
+  "highlight": "right product",
+  "Subtitle": "Have questions or product needs? We’re happy to assist.",
+  "button": "REQUEST A CALLBACK",
+  "contact":"Contact Us",
+  "phone": "Phone",
+  "email": "Email",
+  "Title": "Most Popular Products",
+  "feature1": " Calibration Management System",
+  "feature2":"Customer Relationship Management",
+  "tagline1": "Boost Productivity with Reliable Calibration Management.",
+  "tagline2": "Know Your Customers. Build Trust. Grow Your Business.",
+  "LearnMore": "Learn more"
+},
+
+
+"Footer": {
+  "Description": "ACE CMS brings efficiency, traceability, and compliance to calibration management. By leveraging automation, real-time data, and cloud flexibility, it transforms a traditionally manual and error-prone process into a streamlined, audit-ready system—saving time, reducing risk, and ensuring quality.",
+   "QuickLinks": { "Title": "Quick Links", "Features": "Features", "Clients": "Clients", "Pricing": "Pricing", "Contact": "Contact" }, 
+   "FollowUs": { "Title": "Follow Us" } }
+
+}

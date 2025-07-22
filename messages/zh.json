@@ -1,0 +1,245 @@
+{
+"Menu": {
+  "Project": "Project",
+  "ProjectTooltip": "简化项目，赋能团队。",
+  "CRM": "CRM",
+  "CRMTooltip": "了解客户，发展业务。",
+  "PPAP": "PPAP",
+  "PPAPTooltip": "确保每一个零件的质量，每一次都准确无误。",
+  "AllProducts": "所有产品"
+},
+
+  "Navbar": {
+  "Subtitle": "校准管理系统",
+  "Links": {
+    "Home": "首页",
+    "Features": "功能",
+    "Pricing": "价格",
+    "BookDemo": "预约演示",
+    "Clients": "客户",
+    "Contact": "联系我们",
+    "SignIn": "登录",
+    "AllProducts": "所有产品"
+  }
+},
+
+  "Hero": {
+    "mobileTitle": "简化校准管理，确保合规性，并通过 ACE CMS 提高效率。",
+    "desktopTitle": {
+      "before": "简化校准管理并确保合规性，使用",
+      "highlight": "ACE CMS"
+    },
+    "description": {
+      "part1": "高效、合规，",
+      "highlight": "基于云的校准管理",
+      "part2": "专为制造业卓越设计。"
+    },
+    "stats": {
+      "cloudValue": "100 %",
+      "cloudLabel": "基于云",
+      "usersValue": "200 +",
+      "usersLabel": "活跃用户",
+      "feedbackValue": "95 %",
+      "feedbackLabel": "好评率"
+    },
+    "contactBtn": "联系我们",
+    "watchDemo": "观看演示",
+    "BookADemo": "立即预约免费演示！"
+
+  },
+
+    "WhyChoose": {
+    "badge": "为什么选择我们？",
+    "heading": {
+      "part1": "ACE CMS – 智能的",
+      "part2": "校准管理",
+      "part3": "变得简单"
+    },
+    "description": "在 ACE CMS，我们不仅帮您管理校准，更帮您精通校准。以下是领先企业信赖我们的原因：",
+    "point1": "审计准备就绪，无压力。",
+    "point2": "更智能的校准方式。",
+    "point3": "简化 MSA 流程。",
+    "point4": "扫描，识别，完成。",
+    "point5": "口袋里的校准工具。",
+    "point6": "100% 云端，无数据丢失",
+    "learnMore": "了解更多"
+  },
+
+  "Scenario": {
+  "Title": "ACE 校准管理系统",
+  "Description": "想象一下您的下一次审计——无需纸质文件，无需四处寻找证书。使用 <cms>{cms}</cms>，一切只需点击即可完成，审计员将印象深刻。您的团队保持冷静、专注，并充满信心地应对一切。",
+  "bookDemo": "预约演示",
+  "TrustedBrands": "信任我们的品牌"
+
+},
+
+"Banner": {
+  "Heading": "随时通过",
+  "device": "Android 设备",
+  "Description": "随时随地在手机上轻松查看校准信息。访问实时数据、跟踪历史记录，随时准备审核，无需使用电脑。",
+  "Tap": "点击进入"
+},
+
+"Features": {
+  "Heading": "我们提供的功能",
+  "Subheading": "ACE CMS 是一款智能校准管理系统，从数据导入到审计准备，每一步都进行了简化，帮助您保持合规，节省时间，并随时掌控每一个仪器的状态。",
+  "List": [
+    {
+      "title": "随时准备审计",
+      "description": "不再为审计而慌张—所有数据都被妥善存储，可立即展示。审计员会留下深刻印象。"
+    },
+    {
+      "title": "智能内部校准，包含历史记录和提醒",
+      "description": "智能内部校准自动填写结果—无需重复输入。可立即查看历史记录和接收提醒。"
+    },
+    {
+      "title": "为每台设备生成二维码/条码",
+      "description": "生成、打印并粘贴二维码—扫一扫即可查看所有设备信息。"
+    },
+    {
+      "title": "简化您的 MSA 流程",
+      "description": "自动计算的试验结果，可在几分钟内获得准确结论。"
+    },
+    {
+      "title": "Android 应用支持随时访问",
+      "description": "随时随地通过手机查看校准信息。"
+    },
+    {
+      "title": "实时校准状态仪表板",
+      "description": "一目了然地查看整个公司的校准状态。"
+    },
+    {
+      "title": "无缝 Excel 数据迁移",
+      "description": "我们为您处理 Excel 导入—无压力，无数据丢失。"
+    },
+    {
+      "title": "所有你需要的报告",
+      "description": "校准报告、证书、到期列表—ACE CMS 一应俱全。"
+    },
+    {
+      "title": "100% 云端，无数据丢失",
+      "description": "您的数据安全存储在云端—始终可访问，始终受保护。"
+    }
+  ]
+},
+
+"Banner1": {
+  "heading": "想要更智能地管理校准？让我们为您演示！",
+  "button": " 预约免费演示！"
+},
+
+"Pricing": {
+  "Title": "订阅选项",
+  "Subtitle": "用合适的计划驱动您的增长",
+  "InstrumentRange": "仪器范围",
+  "PerYearly": "/年",
+  "FeaturesList": "功能列表",
+  "KeyFeatures": "主要功能：",
+  "ContactUs": "联系我们",
+  "EssentialTagline": "适合校准初学者",
+  "StandardTagline": "适合需要自动化的成长团队",
+  "ProTagline": "适合需要全面控制的大型团队",
+  "SmartChoice": "明智之选",
+  "FullAccess": "全面访问",
+  "Plans": {
+    "Essential": "基础版",
+    "Standard": "标准版",
+    "Pro": "专业版"
+  },
+  "Features": {
+    "UserLimit": "用户人数限制",
+    "ExternalCertUpload": "上传外部校准证书",
+    "InternalExternalCertUpload": "上传内部与外部校准证书",
+    "CalibrationHistoryReports": "校准记录与报告",
+    "EmailAlerts": "校准到期邮件提醒",
+    "TrackInstrumentsLocations": "添加并跟踪仪器与位置",
+    "QRBarcode": "二维码/条形码生成及扫码查看",
+    "InternalCertModule": "内部校准证书模块",
+    "WearPatternAnalysis": "磨损模式分析",
+    "MSACompliance": "支持 MSA 第四版合规",
+    "AndroidAppAccess": "Android 应用访问",
+    "CustomLogos": "报告自定义图标",
+    "CustomUserRoles": "自定义用户角色与权限",
+    "APIExport": "API 与高级数据导出",
+    "DocumentNumbering": "为每份报告指定文档编号"
+  }
+},
+
+  "Testimonial": {
+    "Title": "真实客户反馈",
+  "name1": "普拉维娜",
+  "name2": "阿伦",
+  "name3": "维贾亚·普拉卡什",
+    "Quote1": "我们公司重视此校准系统的精度与可靠性，这对于维持我们的质量标准至关重要。",
+    "Quote2": "引入该系统大大减少了与校准程序相关的时间和错误，有助于我们日常操作的顺畅进行。",
+    "Quote3": "自从实施该方案以来，我们的校准工作流程变得更加高效。系统的可靠性和易用性超出了我们的预期。"
+  },
+
+ "Contact": {
+  "Title": "请立即联系我们，",
+  "highlight": "立即预约演示！",
+  "code": "CN",
+  "Form": {
+    "Name": "姓名",
+    "Company": "公司名称",
+    "Email": "商务邮箱",
+    "Phone": "手机号码",
+    "Location": "所在地区",
+    "Product": "感兴趣的产品",
+    "Queries": "咨询内容",
+    "Submit": "发送",
+    "Submitting": "发送中…",
+    "EmailError": "请输入有效的电子邮件地址。",
+    "PhoneError": "请输入有效的手机号码。"
+  },
+  "ContactInfo": {
+    "Title": "联系方式",
+    "EmailUs": "发送邮件给我们",
+    "CallUs": "给我们打电话",
+    "Hours": "周一至周六 10:00 — 18:30",
+    "VisitUs": "欢迎访问",
+    "Address": "#306，二楼，NSIC软件技术商务园，B 24，关迪工业区，埃卡图唐加尔，金奈 - 600032"
+  },
+  "Messages": {
+    "Success": "您的消息已成功发送！",
+    "Failure": "发送消息时出错，请稍后再试。",
+    "ValidationUnavailable": "电子邮件验证服务不可用。"
+  }
+},
+"Notification": {
+  "Demo": "预约演示",
+  "RequestCallback": "请求回电",
+  "para": "请填写表单，我们的专业产品顾问将尽快与您联系，了解您的需求，并为您的企业推荐最合适的解决方案。",
+  "write": "您也可以写信给我们："
+},
+"CallbackCard": {
+  "Heading": "需要帮助找到合适的产品吗？",
+  "highlight": "合适的产品",
+  "Subtitle": "有任何问题或产品需求？我们很乐意为您提供帮助。",
+  "button": "请求回电",
+  "contact": "联系我们",
+  "phone": "电话",
+  "email": "邮箱",
+  "Title": "最受欢迎的产品",
+  "feature1": "校准管理系统",
+  "feature2": "客户关系管理",
+  "tagline1": "通过可靠的校准管理提高生产力。",
+  "tagline2": "了解客户，建立信任，发展业务。",
+  "LearnMore": "了解更多"
+},
+
+"Footer": {
+  "Description": "ACE CMS 提高了校准管理的效率、可追溯性和合规性。通过利用自动化、实时数据和云端灵活性，它将传统手动且易出错的流程转变为简化、可审计的系统，从而节省时间、降低风险并确保质量。",
+  "QuickLinks": {
+    "Title": "快速链接",
+    "Features": "功能",
+    "Clients": "客户",
+    "Pricing": "价格",
+    "Contact": "联系"
+  },
+  "FollowUs": {
+    "Title": "关注我们"
+  }
+}
+
+}

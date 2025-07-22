@@ -1,0 +1,252 @@
+{
+"Menu": {
+  "Project": "Project",
+  "ProjectTooltip": "Simplifica proyectos. Empodera equipos.",
+  "CRM": "CRM",
+  "CRMTooltip": "Conoce a tu cliente. Haz crecer tu negocio.",
+  "PPAP": "PPAP",
+  "PPAPTooltip": "Asegurando la calidad, cada pieza, cada vez.",
+  "AllProducts": "Todos los productos"
+},
+
+  "Navbar": {
+  "Subtitle": "Sistema de gestión de calibración",
+  "Links": {
+    "Home": "Inicio",
+    "Features": "Funciones",
+    "Pricing": "Precios",
+    "BookDemo": "Reservar una demo",
+    "Clients": "Clientes",
+    "Contact": "Contáctanos",
+    "SignIn": "Iniciar sesión",
+    "AllProducts": "Todos los productos"
+  }
+},
+
+  "Hero": {
+    "mobileTitle": "Optimice la gestión de calibración, garantice el cumplimiento normativo y aumente la eficiencia con ACE CMS.",
+    "desktopTitle": {
+      "before": "Optimice la gestión de calibración y garantice el cumplimiento con",
+      "highlight": "ACE CMS"
+    },
+    "description": {
+      "part1": "Eficiente, conforme y",
+      "highlight": "gestión de calibración basada en la nube",
+      "part2": "diseñada para la excelencia en fabricación."
+    },
+    "stats": {
+      "cloudValue": "100 %",
+      "cloudLabel": "Basado en la nube",
+      "usersValue": "200 +",
+      "usersLabel": "Usuarios activos",
+      "feedbackValue": "95 %",
+      "feedbackLabel": "Comentarios positivos"
+    },
+    "contactBtn": "Contáctenos",
+      "watchDemo": "Ver demostración",
+     "BookADemo": "¡Reserva una demostración gratuita ahora!"
+  },
+
+   "WhyChoose": {
+    "badge": "¿Por qué elegirnos?",
+    "heading": {
+      "part1": "ACE CMS –",
+      "part2": "Gestión inteligente de calibración",
+      "part3": "hecha simple"
+    },
+    "description": "En ACE CMS, no solo ayudamos a gestionar la calibración, la llevamos al siguiente nivel. Por eso las empresas líderes confían en nosotros:",
+    "point1": "Preparado para auditorías, sin estrés.",
+    "point2": "Calibra con inteligencia, no con esfuerzo.",
+    "point3": "Optimiza tu proceso MSA.",
+    "point4": "Escanea. Conoce. Hecho.",
+    "point5": "Tu calibración, en tu bolsillo.",
+    "point6": "100 % en la nube, sin pérdida de datos",
+    "learnMore": "Aprende más"
+  },
+
+  "Scenario": {
+  "Title": "Sistema de Gestión de Calibración ACE",
+  "Description": "Imagina tu próxima auditoría — sin montones de papeles, sin buscar certificados. Con <cms>{cms}</cms>, todo lo que necesitas está disponible al instante y tus auditores quedarán impresionados. Tu equipo se mantiene tranquilo, enfocado y seguro de que todo está en orden.",
+  "bookDemo": "Reservar una demo",
+  "TrustedBrands": "Marcas que confían en nosotros"
+},
+
+"Banner": {
+  "Heading": "Accede en cualquier momento desde",
+  "device": "dispositivo Android",
+  "Description": "Consulta fácilmente tu información de calibración en tu teléfono en cualquier momento y lugar. Accede a datos en tiempo real, historial y prepárate para auditorías sin necesidad de una computadora.",
+  "Tap": "Toca para entrar"
+},
+
+"Features": {
+  "Heading": "Lo que ofrecemos",
+  "Subheading": "ACE CMS es un sistema inteligente de gestión de calibraciones que optimiza cada paso, desde la importación de datos hasta la preparación de auditorías, para que pueda mantenerse conforme, ahorrar tiempo y tener todos los instrumentos actualizados.",
+  "List": [
+    {
+      "title": "Siempre listo para auditorías",
+      "description": "No más búsquedas de última hora—todo está almacenado y disponible al instante. Los auditores quedarán impresionados."
+    },
+    {
+      "title": "Calibración interna inteligente con historial y alertas",
+      "description": "Calibración interna con resultados automáticos—sin duplicar entradas. Vea el historial y reciba alertas al instante."
+    },
+    {
+      "title": "Códigos QR / de barras para cada instrumento",
+      "description": "Genere, imprima y pegue códigos—escanee para ver todos los detalles del instrumento al instante."
+    },
+    {
+      "title": "Optimice su proceso de MSA",
+      "description": "Resultados automáticos proporcionan respuestas precisas en minutos."
+    },
+    {
+      "title": "App Android para acceso en movimiento",
+      "description": "Revise la información de calibración desde su móvil, en cualquier momento y lugar."
+    },
+    {
+      "title": "Panel de estado de calibración en vivo",
+      "description": "Vea el estado completo de calibración de su empresa desde un solo panel."
+    },
+    {
+      "title": "Migración fluida de datos Excel",
+      "description": "Nos encargamos del Excel por usted—sin estrés, sin pérdidas."
+    },
+    {
+      "title": "Todos los informes que necesite",
+      "description": "Informes de calibración, certificados, listas de vencimiento—todo está en ACE CMS."
+    },
+    {
+      "title": "100 % en la nube, sin pérdida de datos",
+      "description": "Sus datos están seguros en la nube—accesibles y protegidos siempre."
+    }
+  ]
+},
+
+"Banner1": {
+  "heading": "¿Quieres una forma más inteligente de gestionar las calibraciones? ¡Déjanos mostrártelo!",
+  "button": " ¡Reserva una demo gratuita!"
+},
+
+"Pricing": {
+  "Title": "Opciones de suscripción",
+  "Subtitle": "Impulsa tu crecimiento con el plan adecuado",
+  "InstrumentRange": "Rango de instrumentos",
+  "PerYearly": "/Anual",
+  "FeaturesList": "Lista de funciones",
+  "KeyFeatures": "Características clave:",
+  "ContactUs": "Contáctanos",
+  "EssentialTagline": "Ideal para principiantes en calibración",
+  "StandardTagline": "Para equipos en crecimiento que necesitan automatización",
+  "ProTagline": "Para equipos grandes que necesitan control total",
+  "SmartChoice": "Elección inteligente",
+  "FullAccess": "Acceso completo",
+  "Plans": {
+    "Essential": "Esencial",
+    "Standard": "Estándar",
+    "Pro": "Profesional"
+  },
+  "Features": {
+    "UserLimit": "Límite de usuarios",
+    "ExternalCertUpload": "Carga de certificado externo",
+    "InternalExternalCertUpload": "Carga de certificado interno y externo",
+    "CalibrationHistoryReports": "Historial e informes de calibración",
+    "EmailAlerts": "Alertas por correo para fechas de calibración",
+    "TrackInstrumentsLocations": "Agregar y rastrear instrumentos y ubicaciones",
+    "QRBarcode": "Generador de QR/código de barras y escaneo para ver",
+    "InternalCertModule": "Módulo de certificado de calibración interno",
+    "WearPatternAnalysis": "Análisis de patrones de desgaste",
+    "MSACompliance": "Soporte de conformidad MSA 4ª edición",
+    "AndroidAppAccess": "Acceso con app de Android",
+    "CustomLogos": "Logos personalizados en los informes",
+    "CustomUserRoles": "Roles de usuario y permisos personalizados",
+    "APIExport": "API y exportación avanzada de datos",
+    "DocumentNumbering": "Asignar número de documento a cada informe"
+  }
+},
+
+
+  "Testimonial": {
+    "Title": "Comentarios auténticos de nuestros clientes",
+  "name1": "Praveena",
+  "name2": "Arun",
+  "name3": "Vijaya Prakash",
+    "Quote1": "Nuestra empresa valora la precisión y fiabilidad de este sistema de calibración, esencial para mantener nuestros estándares de calidad.",
+    "Quote2": "Implementar este sistema ha reducido considerablemente el tiempo y los errores asociados a nuestros procedimientos de calibración, contribuyendo a unas operaciones más fluidas.",
+    "Quote3": "Desde que implementamos esta solución, nuestros flujos de trabajo de calibración son mucho más eficientes. La fiabilidad y facilidad de uso del sistema han superado nuestras expectativas."
+  },
+
+   "Contact": {
+   "Title": "Póngase en contacto y",
+  "highlight": "programe su demo ahora mismo!",
+  "code": "ES",
+  "Form": {
+    "Name": "Nombre",
+    "Company": "Nombre de la empresa",
+    "Email": "Correo electrónico",
+    "Phone": "Número de móvil",
+    "Location": "Ubicación",
+    "Product": "Producto de interés",
+    "Queries": "Consultas",
+    "Submit": "Enviar",
+    "Submitting": "Enviando...",
+    "EmailError": "Por favor ingrese una dirección de correo válida.",
+    "PhoneError": "Por favor ingrese un número de teléfono válido."
+  },
+  "ContactInfo": {
+    "Title": "Información de contacto",
+    "EmailUs": "Envíenos un correo",
+    "CallUs": "Llámenos",
+    "Hours": "Lun–Sáb de 10 h a 18:30 h",
+    "VisitUs": "Visítenos",
+    "Address": "#306, 2.º piso, Parque Tecnológico de Software NSIC - B 24, Polígono Industrial de Guindy, Ekkatuthangal, Chennai - 600032"
+  },
+  "Messages": {
+    "Success": "Su mensaje ha sido enviado con éxito.",
+    "Failure": "Hubo un problema al enviar su mensaje. Por favor, inténtelo más tarde.",
+    "ValidationUnavailable": "Servicio de validación de correo no disponible."
+  }
+},
+"Notification": {
+  "Demo": "Reservar una demo",
+  "RequestCallback": "Solicitar una llamada",
+  "para": "Por favor, complete el formulario y un experto en productos calificado se pondrá en contacto con usted en breve para comprender sus necesidades y recomendarle la solución más adecuada para su negocio.",
+  "write": "También puede escribirnos a:"
+},
+
+"CallbackCard": {
+  "Heading": "¿Necesita ayuda para encontrar lo que busca?",
+  "highlight": "producto adecuado",
+  "Subtitle": "¿Tiene preguntas o necesita un producto? Estamos encantados de ayudarle.",
+  "button": "SOLICITAR UNA DEVOLUCIÓN DE LLAMADA",
+  "contact": "Contáctenos",
+  "phone": "Teléfono",
+  "email": "Correo electrónico",
+  "Title": "Productos más populares",
+  "feature1": "Sistema de gestión de calibración",
+  "feature2": "Gestión de relaciones con clientes",
+  "tagline1": "Mejore la productividad con una gestión de calibración confiable.",
+  "tagline2": "Conozca a sus clientes. Genere confianza. Haga crecer su negocio.",
+  "LearnMore": "Saber más"
+},
+
+"Footer": {
+  "Description": "ACE CMS aporta eficiencia, trazabilidad y cumplimiento a la gestión de calibraciones. Aprovechando la automatización, los datos en tiempo real y la flexibilidad de la nube, transforma un proceso tradicionalmente manual y propenso a errores en un sistema optimizado y listo para auditorías, ahorrando tiempo, reduciendo riesgos y asegurando la calidad.",
+  "QuickLinks": {
+    "Title": "Enlaces Rápidos",
+    "Features": "Características",
+    "Clients": "Clientes",
+    "Pricing": "Precios",
+    "Contact": "Contacto"
+  },
+  "FollowUs": {
+    "Title": "Síguenos"
+  }
+}
+
+
+
+
+
+
+
+
+}

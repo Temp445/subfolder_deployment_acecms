@@ -1,0 +1,242 @@
+{
+  "Menu": {
+    "Project": "프로젝트",
+    "ProjectTooltip": "프로젝트를 간소화하고 팀의 역량을 강화하세요.",
+    "CRM": "CRM",
+    "CRMTooltip": "고객을 이해하고 비즈니스를 성장시키세요.",
+    "PPAP": "PPAP",
+    "PPAPTooltip": "모든 부품, 항상 품질을 보장합니다.",
+    "AllProducts": "전체 제품"
+  },
+
+  "Navbar": {
+    "Subtitle": "교정 관리 시스템",
+    "Links": {
+      "Home": "홈",
+      "Features": "기능",
+      "Pricing": "가격",
+      "BookDemo": "데모 예약",
+      "Clients": "고객사",
+      "Contact": "문의하기",
+      "SignIn": "로그인",
+      "AllProducts": "전체 제품"
+    }
+  },
+
+  "Hero": {
+    "mobileTitle": "ACE CMS로 교정 관리를 간소화하고 규정 준수를 보장하며 효율성을 향상시키세요.",
+    "desktopTitle": {
+      "before": "교정 관리를 간소화하고 규정 준수를 보장하세요:",
+      "highlight": "ACE CMS"
+    },
+    "description": {
+      "part1": "효율적이고, 규정 준수하며,",
+      "highlight": "클라우드 기반 교정 관리 시스템",
+      "part2": "으로 제조 품질을 향상시키세요."
+    },
+    "stats": {
+      "cloudValue": "100 %",
+      "cloudLabel": "클라우드 기반",
+      "usersValue": "200 +",
+      "usersLabel": "실시간 사용자",
+      "feedbackValue": "95 %",
+      "feedbackLabel": "긍정적인 피드백"
+    },
+    "contactBtn": "문의하기",
+    "watchDemo": "데모 보기",
+    "BookADemo": "지금 무료 데모 예약하기!"
+  },
+
+  "WhyChoose": {
+    "badge": "왜 우리를 선택해야 하나요?",
+    "heading": {
+      "part1": "ACE CMS – 스마트한",
+      "part2": "교정 관리",
+      "part3": "를 간단하게"
+    },
+    "description": "ACE CMS는 단순한 교정 관리 도구가 아닙니다. 완벽한 교정 마스터링을 도와드립니다. 신뢰받는 이유는 다음과 같습니다:",
+    "point1": "감사 준비 완료, 스트레스 없음.",
+    "point2": "더 스마트하게 교정하세요.",
+    "point3": "MSA 프로세스를 간소화하세요.",
+    "point4": "스캔으로 즉시 확인.",
+    "point5": "모바일에서 교정 확인 가능.",
+    "point6": "100% 클라우드 기반, 데이터 손실 없음",
+    "learnMore": "자세히 보기"
+  },
+
+  "Scenario": {
+    "Title": "ACE 교정 관리 시스템",
+    "Description": "다음 감사를 상상해보세요 — 종이 문서도, 인증서를 찾을 필요도 없습니다. <cms>{cms}</cms>로 모든 것이 클릭 한 번으로 준비되고, 감사관도 감탄합니다. 팀은 차분하고 집중되어 있으며 모든 것이 잘 정리되어 있다는 확신을 가집니다.",
+    "bookDemo": "데모 예약",
+    "TrustedBrands": "우리를 신뢰하는 브랜드"
+  },
+
+  "Banner": {
+    "Heading": "언제 어디서나 액세스",
+    "device": "안드로이드 기기",
+    "Description": "모바일로 언제 어디서나 교정 정보를 쉽게 확인하세요. 실시간 데이터, 이력 추적, 감사 대비 — 데스크탑 없이도 가능.",
+    "Tap": "탭하여 시작"
+  },
+
+  "Features": {
+    "Heading": "제공 기능",
+    "Subheading": "ACE CMS는 데이터 가져오기부터 감사 준비까지 모든 단계를 간소화하는 스마트 교정 관리 시스템입니다. 규정을 준수하고, 시간을 절약하며, 모든 장비를 최신 상태로 유지하세요.",
+    "List": [
+      {
+        "title": "감사 준비 완료",
+        "description": "감사 중 허둥대지 마세요 — 모든 것이 즉시 표시되고 정리되어 있습니다. 감사관도 만족합니다."
+      },
+      {
+        "title": "스마트 내부 교정, 이력 및 알림 포함",
+        "description": "자동으로 채워지는 내부 교정 결과 — 반복 입력 없음. 교정 이력 확인 및 즉시 알림 수신."
+      },
+      {
+        "title": "모든 장비에 QR/바코드 스티커",
+        "description": "코드를 생성, 출력, 부착 — 스캔만으로 모든 장비 정보를 확인할 수 있습니다."
+      },
+      {
+        "title": "MSA 프로세스 간소화",
+        "description": "자동 계산된 결과로 몇 분 안에 정확한 결과 제공."
+      },
+      {
+        "title": "모바일 전용 안드로이드 앱",
+        "description": "언제 어디서나 모바일로 교정 정보 확인 가능."
+      },
+      {
+        "title": "실시간 교정 상태 대시보드",
+        "description": "회사의 전체 교정 상태를 한눈에 확인하세요."
+      },
+      {
+        "title": "엑셀 데이터 무손실 마이그레이션",
+        "description": "엑셀 가져오기는 저희가 처리합니다 — 스트레스 제로, 데이터 손실 없음."
+      },
+      {
+        "title": "모든 필요한 보고서 포함",
+        "description": "교정 보고서, 인증서, 만기 목록 등 모든 보고서를 제공합니다."
+      },
+      {
+        "title": "100% 클라우드 기반, 데이터 손실 없음",
+        "description": "모든 데이터는 안전하게 클라우드에 저장되어 언제든지 접근 가능하고 보호됩니다."
+      }
+    ]
+  },
+
+  "Banner1": {
+  "heading": "교정을 더 스마트하게 관리하고 싶으신가요? 저희가 보여드릴게요!",
+  "button": " 무료 데모 예약하기!"
+},
+
+  "Pricing": {
+    "Title": "구독 옵션",
+    "Subtitle": "당신의 성장에 맞는 최적의 플랜",
+    "InstrumentRange": "장비 범위",
+    "PerYearly": "/연간",
+    "FeaturesList": "기능 목록",
+    "KeyFeatures": "주요 기능:",
+    "ContactUs": "문의하기",
+    "EssentialTagline": "교정 초보자에게 적합",
+    "StandardTagline": "자동화가 필요한 성장 중인 팀",
+    "ProTagline": "완전한 제어가 필요한 대규모 팀",
+    "SmartChoice": "스마트 선택",
+    "FullAccess": "전체 접근",
+    "Plans": {
+      "Essential": "기본형",
+      "Standard": "표준형",
+      "Pro": "프로형"
+    },
+    "Features": {
+      "UserLimit": "사용자 제한",
+      "ExternalCertUpload": "외부 교정 인증서 업로드",
+      "InternalExternalCertUpload": "내부 및 외부 교정 인증서 업로드",
+      "CalibrationHistoryReports": "교정 이력 및 보고서",
+      "EmailAlerts": "교정 만기 이메일 알림",
+      "TrackInstrumentsLocations": "장비 및 위치 추가 및 추적",
+      "QRBarcode": "QR/바코드 생성 및 스캔 보기",
+      "InternalCertModule": "내부 교정 인증서 모듈",
+      "WearPatternAnalysis": "마모 패턴 분석",
+      "MSACompliance": "MSA 4판 규정 지원",
+      "AndroidAppAccess": "안드로이드 앱 접근",
+      "CustomLogos": "보고서에 맞춤 로고",
+      "CustomUserRoles": "사용자 역할 및 권한 설정",
+      "APIExport": "API 및 고급 데이터 내보내기",
+      "DocumentNumbering": "각 보고서에 문서 번호 할당"
+    }
+  },
+
+  "Testimonial": {
+    "Title": "진짜 고객의 피드백",
+   "name1": "프라비나",
+  "name2": "아룬",
+  "name3": "비자야 프라카시",
+    "Quote1": "이 교정 시스템의 정밀성과 신뢰성은 우리 품질 기준 유지에 필수적입니다.",
+    "Quote2": "도입 후 교정 절차에 걸리는 시간과 오류가 크게 줄어들어 운영이 훨씬 매끄러워졌습니다.",
+    "Quote3": "이 시스템 덕분에 교정 워크플로우가 훨씬 효율적이고 신뢰성도 높아졌습니다. 기대 이상입니다."
+  },
+
+  "Contact": {
+    "Title": "지금 문의하시고 ",
+    "highlight": "데모를 예약하세요!",
+    "code": "KR",
+    "Form": {
+      "Name": "이름",
+      "Company": "회사명",
+      "Email": "업무용 이메일",
+      "Phone": "휴대전화 번호",
+      "Location": "지역",
+      "Product": "관심 제품",
+      "Queries": "문의사항",
+      "Submit": "보내기",
+      "Submitting": "보내는 중...",
+      "EmailError": "유효한 이메일 주소를 입력하세요.",
+      "PhoneError": "유효한 전화번호를 입력하세요."
+    },
+    "ContactInfo": {
+      "Title": "연락처 정보",
+      "EmailUs": "이메일 문의",
+      "CallUs": "전화 문의",
+      "Hours": "월~토 오전 10시 ~ 오후 6시 30분",
+      "VisitUs": "방문 주소",
+      "Address": "#306, 2층 NSIC - 소프트웨어 기술 비즈니스 파크, B 24, Guindy 산업단지, Ekkatuthangal, Chennai - 600032"
+    },
+    "Messages": {
+      "Success": "메시지가 성공적으로 전송되었습니다!",
+      "Failure": "메시지 전송 중 문제가 발생했습니다. 나중에 다시 시도해주세요.",
+      "ValidationUnavailable": "이메일 검증 서비스를 사용할 수 없습니다."
+    }
+  },
+  "Notification": {
+  "Demo": "데모 예약하기",
+  "RequestCallback": "콜백 요청하기",
+  "para": "양식을 작성해 주시면 자격을 갖춘 제품 전문가가 곧 연락드려 귀하의 요구 사항을 파악하고 비즈니스에 가장 적합한 솔루션을 제안해 드립니다.",
+  "write": "다음 주소로 이메일을 보내주셔도 됩니다:"
+},
+"CallbackCard": {
+  "Heading": "원하는 것을 찾는 데 도움이 필요하신가요?",
+  "highlight": "적절한 제품",
+  "Subtitle": "질문이나 제품 관련 요청이 있으신가요? 저희가 도와드리겠습니다.",
+  "button": "콜백 요청하기",
+  "contact": "문의하기",
+  "phone": "전화",
+  "email": "이메일",
+  "Title": "가장 인기 있는 제품",
+  "feature1": "교정 관리 시스템",
+  "feature2": "고객 관계 관리",
+  "tagline1": "신뢰할 수 있는 교정 관리로 생산성을 향상하세요.",
+  "tagline2": "고객을 이해하고 신뢰를 쌓아 비즈니스를 성장시키세요.",
+  "LearnMore": "자세히 보기"
+},
+
+  "Footer": {
+    "Description": "ACE CMS는 교정 관리를 효율적이고, 추적 가능하며, 규정 준수하도록 도와줍니다. 자동화, 실시간 데이터, 클라우드 유연성을 활용하여 수작업 오류를 줄이고, 감사를 준비하고, 품질을 보장하는 시스템으로 전환합니다.",
+    "QuickLinks": {
+      "Title": "빠른 링크",
+      "Features": "기능",
+      "Clients": "고객사",
+      "Pricing": "가격",
+      "Contact": "문의"
+    },
+    "FollowUs": {
+      "Title": "팔로우하기"
+    }
+  }
+}
