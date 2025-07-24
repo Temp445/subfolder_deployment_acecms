@@ -10,9 +10,9 @@ const nextConfig: NextConfig  = {
             },
         ],
     },
-//   basePath: '/acecms',
-//   assetPrefix: '/acecms',
-//   trailingSlash: true,
+  basePath: '/acecms',
+  assetPrefix: '/acecms',
+  trailingSlash: true,
 };
 
 const withNextIntl = createNextIntlPlugin();
