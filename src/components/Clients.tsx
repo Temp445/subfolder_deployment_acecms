@@ -1,7 +1,7 @@
 "use client";
 
 import Marquee from "react-fast-marquee";
-import Image, { StaticImageData } from "next/image";
+import Image from "next/image";
 
 import img0 from "@/assets/ClientImages/image-0.png";
 import img1 from "@/assets/ClientImages/image-1.png";
@@ -38,7 +38,7 @@ import { useTranslations } from "next-intl";
 const Clients: React.FC = () => {
   const t = useTranslations("Scenario");
 
-  const logos: StaticImageData[] = [
+  const logos = [
     img0, img1, img2, img3, img4, img5, img6, img7, img8, img9,
     img10, img11, img12, img13, img14, img15, img16, img17, img18,
     img19, img20, img21, img22, img23, img24, img25, img26, img27,
