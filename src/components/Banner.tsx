@@ -1,6 +1,8 @@
 
 import Image from 'next/image';
 import React from 'react';
+import image1 from '@/assets/app.svg'
+import image2 from '@/assets/icon10.png'
 import Link from 'next/link';
 import { useTranslations } from 'next-intl';
 const Banner = () => {
@@ -28,7 +30,7 @@ const Banner = () => {
 
         <div className="lg:w-1/2 md:text-center lg:text-left space-y-4">
           <h1 className=" text-2xl md:text-4xl lg:text-5xl xl:text-6xl font-bold  lg:block  text-white text-center lg:text-left ">
-            {t('Heading')} <span className='flex text-center lg:text-left lg:justify-start mx-auto justify-center  '><span className='bg-clip-text text-transparent bg-orange-600  font-bold'>{t('device')}</span>  <Image src="/acecms/icon10.png" alt="icon" width={100} height={100} className='w-6 h-6 md:w-10 mt-2 md:h-10 ml-2' /></span>
+            {t('Heading')} <span className='flex text-center lg:text-left lg:justify-start mx-auto justify-center  '><span className='bg-clip-text text-transparent bg-orange-600  font-bold'>{t('device')}</span>  <Image src={image2} alt="icon" width={100} height={100} className='w-6 h-6 md:w-10 mt-2 md:h-10 ml-2' /></span>
           </h1>
           <p className="text-gray-300 text-base md:text-lg text-justify 2xl:w-11/12">
             {t('Description')}
@@ -43,7 +45,7 @@ const Banner = () => {
 
         <div className=" mt-8 lg:mt-0 lg:flex justify-center hidden">
           <Image
-            src="/acecms/app.svg"
+            src={image1}
             alt="Android Support"
             width={100}
             height={100}

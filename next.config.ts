@@ -9,6 +9,7 @@ const nextConfig: NextConfig  = {
                 hostname: 'px.ads.linkedin.com',  // for linkedin Tracking
             },
         ],
+        unoptimized: true,
     },
   basePath: '/acecms',
   assetPrefix: '/acecms',
