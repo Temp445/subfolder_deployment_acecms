@@ -1,7 +1,6 @@
 "use client";
 import { FC, useState, useRef, useEffect } from "react";
 import Image from "next/image";
-import logo from "../assets/AceLogo.png";
 import { setCookie } from 'cookies-next';
 import { useRouter } from 'next/navigation';
 import Link from 'next/link';
@@ -62,7 +61,7 @@ const languages = [
           <div className="md:flex items-center hidden ">
           <Link href="https://acesoft.in/" className="text-2xl md:text-xl lg:text-2xl xl:text-3xl font-bold text-[#2b2d42] flex gap-1">
             <Image
-              src={logo}
+              src="/AceLogo.png"
               alt="logo"
               width={100}
               height={100}
@@ -76,7 +75,7 @@ const languages = [
         <div className="hidden md:flex items-center space-x-4 ml-10">
        <div className="group">
            <Link
-            href="#"
+            href="/ace-project"
             className="flex items-center text-[#2b2d42]  border border-white  text-base font-semibold relative px-4 py-2 rounded-full transition-all duration-300 ease-in-out   hover:scale-105"
           >
             {t('Project')}

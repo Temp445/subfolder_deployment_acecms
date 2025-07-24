@@ -8,7 +8,6 @@ import { useTranslations } from 'next-intl';
 import { FaWpforms } from "react-icons/fa6";
 const NotificationButton = () => {
   const t = useTranslations('Notification');
-
   const [showDemo, setShowDemo] = useState(false);
   const [showCallback, setShowCallback] = useState(false);
   const [DemoClosed, setDemoClosed] = useState(false);

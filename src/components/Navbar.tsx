@@ -13,7 +13,6 @@ import {
   LayoutList 
 } from "lucide-react";
 import Image from "next/image";
-import logo from "../assets/AceLogo.png";
 import { useTranslations } from "next-intl";
 
 const Navbar: FC = () => {
@@ -33,7 +32,7 @@ const Navbar: FC = () => {
         <div className="md:flex items-center hidden ">
           <Link href="/" className="text-2xl md:text-xl lg:text-2xl xl:text-3xl font-bold text-white flex gap-1">
             <Image
-              src={logo}
+              src="/AceLogo.png"
               alt="logo"
               width={100}
               height={100}

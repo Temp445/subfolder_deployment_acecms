@@ -2,39 +2,32 @@
 
 import React, { useState, useEffect } from 'react';
 import { ChevronLeft, ChevronRight, Quote } from 'lucide-react';
-import icon1 from '../assets/ClientImages/image-15.png'
-import icon2 from '../assets/ClientImages/image-5.png'
-import icon3 from '../assets/ClientImages/image-1.png'
 import Image from 'next/image';
 import { useTranslations } from 'next-intl';
-
 
 
 export default function TestimonialCarousel() {
  
   const t = useTranslations('Testimonial')
 
-
-
-
   const testimonials = [
   {
     id: 1,
-    logo:icon1,
+    logo:"/acecms/image-15.png",
     name: t('name1'),
     company: 'Asahi India Glass Ltd',
     quote: t('Quote1')
   },
   {
     id: 2,
-    logo:icon2,
+    logo:"/acecms/image-5.png",
     name: t('name2'),
     company: 'Wonjin Autoparts India Pvt Ltd',
     quote: t('Quote2')
   },
   {
     id: 3,
-    logo:icon3,
+    logo:"/acecms/image-1.png",
     name: t('name3'),
     company: 'RANE TRW STEERING SYSTEMS Pvt Ltd',
     quote: t('Quote3')
