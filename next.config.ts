@@ -11,7 +11,7 @@ const nextConfig: NextConfig  = {
         ],
         unoptimized: true,
     },
-  basePath: '/acecms',
+  basePath: '/products/ace-calibration-management-system-on-cloud',
   assetPrefix: '/acecms',
   trailingSlash: true,
 };
