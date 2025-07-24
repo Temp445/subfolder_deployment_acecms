@@ -1,5 +1,6 @@
 
 import Image from 'next/image';
+import logo from '@/assets/logo.svg'
 import Link from 'next/link';
 import { useTranslations } from 'next-intl';
 const Footer = () => {
@@ -16,7 +17,7 @@ const Footer = () => {
           <div className="flex flex-col md:flex-row justify-between md:justify-around space-y-8 md:space-y-0">
 
             <div className='w-80'>
-              <div className="text-lg font-semibold text-white flex gap-2"> <Image src="/acecms/logo.svg" alt="logo" width={100} height={100} className='w-6 h-6' /> ACE CMS</div>
+              <div className="text-lg font-semibold text-white flex gap-2"> <Image src={logo} alt="logo" width={100} height={100} className='w-6 h-6' /> ACE CMS</div>
               <p className="mt-2 text-sm flex flex-wrap">{t('Description')}</p>
             </div>
 

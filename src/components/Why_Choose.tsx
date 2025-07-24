@@ -1,6 +1,9 @@
 
 import { CheckCircle, MoveRight } from 'lucide-react'
 import Image from 'next/image'
+import image1 from "@/assets/arrow1.png"
+import image2 from "@/assets/image5.jpg"
+import image3 from "@/assets/CMS_thumbnail.webp"
 import Link from 'next/link'
 import { useTranslations } from 'next-intl';
 import { useLocale } from 'next-intl';
@@ -35,14 +38,14 @@ const Why_Choose = () => {
             <div className="relative z-10  xl:bg-none lg:shadow-none p-1 rounded-lg shadow-lg transform  transition-transform duration-300">
               <div className="mx-auto  relative">
                 <Image
-                  src="/acecms/arrow1.png"
+                  src={image1}
                   alt="ACE CMS"
                   className="hidden lg:block h-52 w-32 absolute lg:w-28 lg:right-0 xl:right-20 2xl:right-48 top-10  xl:-rotate-12 "
                   width={100}
                   height={100}
                 />
                 <Image
-                  src="/acecms/image5.jpg"
+                  src={image2}
                   alt="ACE CMS"
                   className="hidden lg:block object-cover w-80 h-52 rounded-lg hover:scale-105"
                   width={150}
@@ -51,7 +54,7 @@ const Why_Choose = () => {
               </div>
               <div className="mx-auto  relative mt-5">
                 <Image
-                  src="/acecms/CMS_thumbnail.webp"
+                  src={image3}
                   alt="ACE CMS"
                   className="object-cover w-full h-80 rounded-lg hover:scale-105"
                   width={200}

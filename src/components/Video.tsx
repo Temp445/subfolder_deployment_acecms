@@ -4,6 +4,7 @@ import React, { useState, useRef } from "react";
 import { SiGoogledisplayandvideo360 } from "react-icons/si";
 import { IoCloseCircleOutline } from "react-icons/io5";
 import Image from "next/image";
+import image1 from "@/assets/CMS4.png"
 import { useTranslations } from "next-intl";
 
 export default function Video() {
@@ -37,7 +38,7 @@ export default function Video() {
       <div className="w-full  flex  justify-center container mx-auto p-4 ">
         <div className="relative w-full max-w-5xl">
           <Image
-            src="/acecms/CMS4.png"
+            src={image1}
             alt="CMS"
             width={200}
             height={200}

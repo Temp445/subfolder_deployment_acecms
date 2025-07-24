@@ -4,7 +4,9 @@ import React, { useState, useEffect } from 'react';
 import { ChevronLeft, ChevronRight, Quote } from 'lucide-react';
 import Image from 'next/image';
 import { useTranslations } from 'next-intl';
-
+import icon1 from '@/assets/ClientImages/image-15.png'
+import icon2 from '@/assets/ClientImages/image-5.png'
+import icon3 from '@/assets/ClientImages/image-1.png'
 
 export default function TestimonialCarousel() {
  
@@ -13,21 +15,21 @@ export default function TestimonialCarousel() {
   const testimonials = [
   {
     id: 1,
-    logo:"/acecms/image-15.png",
+    logo:icon1,
     name: t('name1'),
     company: 'Asahi India Glass Ltd',
     quote: t('Quote1')
   },
   {
     id: 2,
-    logo:"/acecms/image-5.png",
+    logo:icon2,
     name: t('name2'),
     company: 'Wonjin Autoparts India Pvt Ltd',
     quote: t('Quote2')
   },
   {
     id: 3,
-    logo:"/acecms/image-1.png",
+    logo:icon3,
     name: t('name3'),
     company: 'RANE TRW STEERING SYSTEMS Pvt Ltd',
     quote: t('Quote3')

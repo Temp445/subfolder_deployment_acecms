@@ -7,6 +7,7 @@ import Link from 'next/link';
 import { useLocale } from 'next-intl';
 import { ChevronDown, Globe } from 'lucide-react';
 import { useTranslations } from "next-intl";
+import logo from "@/assets/AceLogo.png"
 
 const Navbar1: FC = () => {
   const t = useTranslations('Menu');
@@ -61,7 +62,7 @@ const languages = [
           <div className="md:flex items-center hidden ">
           <Link href="https://acesoft.in/" className="text-2xl md:text-xl lg:text-2xl xl:text-3xl font-bold text-[#2b2d42] flex gap-1">
             <Image
-              src="/AceLogo.png"
+              src={logo}
               alt="logo"
               width={100}
               height={100}

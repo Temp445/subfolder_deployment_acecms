@@ -4,7 +4,7 @@ import React from 'react';
 import Link from 'next/link';
 import { useTranslations } from 'next-intl';
 import { useLocale } from 'next-intl';
-
+import image1 from "@/assets/CMS1.png"
 const Scenario = () => {
 
  const t = useTranslations("Scenario")
@@ -38,7 +38,7 @@ const textSize={
         </div>
 
         <div className="mb-5 lg:w-1/2 order-1 md:mb-0 lg:order-2 md:pb-5">
-          <Image src="/acecms/CMS1.png" alt="cms" width={200} height={200} className='rounded-lg md:shadow-xl shadow-indigo-300 w-full' />
+          <Image src={image1} alt="cms" width={200} height={200} className='rounded-lg md:shadow-xl shadow-indigo-300 w-full' />
         </div>
       </div>
     </div>

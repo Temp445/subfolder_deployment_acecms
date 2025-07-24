@@ -2,12 +2,14 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import Navbar from './Navbar';
-
 import DemoButton from './DemoButton';
 import { useTranslations } from 'next-intl';
 import { useLocale } from 'next-intl';
-
-
+import image1 from '@/assets/Group6.png'
+import logo from '@/assets/AceLogo.png'
+import image2 from '@/assets/image6.png'
+import image3 from '@/assets/image1.jpg'
+import image4 from '@/assets/4750.jpg'
 const Hero = () => {
   const t = useTranslations('Hero');
   const locale = useLocale();
@@ -26,17 +28,17 @@ const Hero = () => {
 
         <div className="absolute top-32 left-10 md:left-20 lg:left-32">
           <div className="w-12 h-12  flex items-center justify-center ">
-            <Image src="/acecms/Group6.png" alt="icon" className="w-8 h-8  rectangle" width={32} height={32} />
+            <Image src={image1} alt="icon" className="w-8 h-8  rectangle" width={32} height={32} />
           </div>
         </div>
         <div className="absolute bottom-40 right-80 hidden lg:block">
           <div className="w-8 h-8  border border-white/20 rounded-full flex items-center justify-center backdrop-blur-sm">
-            <Image src="/acecms/Group6.png" alt="icon" className="w-4 h-4 opacity-80" width={16} height={16} />
+            <Image src={image1} alt="icon" className="w-4 h-4 opacity-80" width={16} height={16} />
           </div>
         </div>
         <div className="absolute bottom-20 left-8 md:left-16 xl:left-96">
           <div className="w-10 h-10 flex items-center justify-center backdrop-blur-sm">
-            <Image src="/acecms/Group6.png" alt="icon" className="w-10 h-10 opacity-70" width={12} height={12} />
+            <Image src={image1} alt="icon" className="w-10 h-10 opacity-70" width={12} height={12} />
           </div>
         </div>
 
@@ -46,7 +48,7 @@ const Hero = () => {
           </nav>
 
           <div className="md:hidden flex gap-1 mx-auto justify-center w-fit py-4 px-6 md:mt-10  -mt-16 ">
-            <Image src="/AceLogo.png" alt="logo" className="w-8 h-8 " width={32} height={32} />
+            <Image src={logo} alt="logo" className="w-8 h-8 " width={32} height={32} />
             <span className="text-lg font-bold text-white tracking-wide mt-1">ACE CMS</span>
           </div>
 
@@ -58,7 +60,7 @@ const Hero = () => {
 
           <div className="relative bg-white/10 rounded-2xl border border-white/20 p-2 md:mt-10 lg:mt-0 md:p-6 shadow-2xl backdrop-blur-sm">
             <Image
-              src="/acecms/image6.png"
+              src={image2}
               alt="image"
               className="w-full max-w-full mx-auto rounded-xl shadow-lg "
               width={484}
@@ -70,7 +72,7 @@ const Hero = () => {
           <div className=" hidden lg:grid grid-cols-2 md:grid-cols-2 gap-6">
             <div className="relative bg-white/10 rounded-2xl border border-white/20 p-2 md:p-4 shadow-2xl backdrop-blur-sm ">
               <Image
-                src="/acecms/image1.jpg"
+                src={image3}
                 alt="image"
                 className="w-full max-w-full mx-auto rounded-lg shadow-lg  "
                 width={484}
@@ -81,7 +83,7 @@ const Hero = () => {
 
              <div className="relative bg-white/10 rounded-2xl border border-white/20 p-2 md:p-4 shadow-2xl backdrop-blur-sm">
                <Image
-                 src="/acecms/4750.jpg"
+                 src={image4}
                  alt="image"
                  className="w-full max-w-full mx-auto rounded-lg shadow-lg "
                  width={484}
