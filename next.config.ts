@@ -2,6 +2,8 @@ import type { NextConfig } from "next";
 import createNextIntlPlugin from 'next-intl/plugin';
 
 const nextConfig: NextConfig  = {
+  basePath: '/products/ace-calibration-management-system-on-cloud',
+  trailingSlash: true,
     images: {
         remotePatterns: [
             {
@@ -11,9 +13,7 @@ const nextConfig: NextConfig  = {
         ],
         unoptimized: true,
     },
-  basePath: '/products/ace-calibration-management-system-on-cloud',
-  assetPrefix: '/acecms',
-  trailingSlash: true,
+
 };
 
 const withNextIntl = createNextIntlPlugin();
