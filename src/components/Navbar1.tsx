@@ -76,7 +76,7 @@ const languages = [
         <div className="hidden md:flex items-center space-x-4 ml-10">
        <div className="group">
            <Link
-            href="/products/ace-project-management-software"
+            href="https://acesofts.netlify.app/products/ace-project-management-software"
             className="flex items-center text-[#2b2d42]  border border-white  text-base font-semibold relative px-4 py-2 rounded-full transition-all duration-300 ease-in-out   hover:scale-105"
           >
             {t('Project')}
