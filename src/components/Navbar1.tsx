@@ -60,7 +60,7 @@ const languages = [
       <nav className=" container mx-auto hidden md:flex items-center justify-between md:pt-3 pb-2  px-4 md:px-0  relative">
       <div className="flex">
           <div className="md:flex items-center hidden ">
-          <Link href="https://acesoft.in/" className="text-2xl md:text-xl lg:text-2xl xl:text-3xl font-bold text-[#2b2d42] flex gap-1">
+          <Link href="https://acesofts.netlify.app/" className="text-2xl md:text-xl lg:text-2xl xl:text-3xl font-bold text-[#2b2d42] flex gap-1">
             <Image
               src={logo}
               alt="logo"
@@ -76,7 +76,7 @@ const languages = [
         <div className="hidden md:flex items-center space-x-4 ml-10">
        <div className="group">
            <Link
-            href="/ace-project"
+            href="/products/ace-project-management-software"
             className="flex items-center text-[#2b2d42]  border border-white  text-base font-semibold relative px-4 py-2 rounded-full transition-all duration-300 ease-in-out   hover:scale-105"
           >
             {t('Project')}
@@ -100,7 +100,7 @@ const languages = [
 
         <div className="group">
            <Link
-            href="https://acesoft.in/products/v1/ace-profit-ppap"
+            href="/products/ace-profit-ppap"
             className="flex items-center text-[#2b2d42]  border border-white  text-base font-semibold relative px-4 py-2 rounded-full transition-all duration-300 ease-in-out   hover:scale-105"
           >
             {t('PPAP')}
@@ -111,7 +111,7 @@ const languages = [
        </div>
 
           <Link
-            href="https://acesoft.in/products"
+            href="/products"
             className="flex items-center text-[#2b2d42]  border border-white   text-base font-semibold relative px-4 py-2 rounded-full transition-all duration-300 ease-in-out  hover:scale-105"
           >
             {t('AllProducts')}
